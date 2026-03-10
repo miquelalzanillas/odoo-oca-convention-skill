@@ -1,11 +1,5 @@
 # Odoo OCA Developer Skill for Skills.sh
 
-## ✅ Objective Completed
-
-Successfully created the **odoo-oca-developer** skill for GitHub Copilot, providing expert guidance for developing, migrating, and maintaining Odoo modules following OCA conventions.
-
-## 📦 Created Components
-
 ### 1. Main Skill (`odoo-oca-developer`)
 
 **Location:**
@@ -235,6 +229,6 @@ A: Yes, all code and technical documentation is in English as requested.
 
 ---
 
-**The skill is ready to use! 🚀**
+**The skill is ready to use**
 
 For more details, see [SKILL_GUIDE.md](SKILL_GUIDE.md)

@@ -1,8 +1,7 @@
 # Odoo OCA Developer Skill - Complete Guide
 
 ## Overview
-
-Successfully created the **odoo-oca-developer** skill for GitHub Copilot. This skill provides expert guidance for developing, migrating, and maintaining Odoo modules following OCA (Odoo Community Association) conventions.
+This skill provides expert guidance for developing, migrating, and maintaining Odoo modules following OCA (Odoo Community Association) conventions.
 
 ## What This Skill Does
 
@@ -260,5 +259,3 @@ The skill is stored in two places:
 Both contain the complete skill with all scripts, references, and assets.
 
 ---
-
-**Enjoy developing Odoo modules with OCA conventions! 🚀**
